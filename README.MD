@@ -15,8 +15,8 @@ Movie Trailer Website is a wonderful site where you can visit and watch the top 
 
 The steps to quick start are:
 
-* [Download the zip file in your directory](https://github.com/twbs/bootstrap/archive/v3.3.6.zip).
-* or Clone the repo: `git clone https://github.com/twbs/bootstrap.git`.
+* [Download the zip file in your directory](https://github.com/hrmnngth/movie_trailer/archive/master.zip).
+* or Clone the repo: `git clone https://github.com/hrmnngth/movie_trailer.git`.
 
 ### Running the website (only locally)
 
