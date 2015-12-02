@@ -69,9 +69,7 @@ main_page_head = '''
         a:hover {
             color: #F2EEF8!important;
         }
-        a:visited {
-            color: #B59ADD!important;
-        }
+
 
     </style>
     <script type="text/ja   vascript" charset="utf-8">
